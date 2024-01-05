@@ -2,7 +2,7 @@ repo_name: colinfitzgerald328/minima
 report_id: c9c20dce3a1299adadafc2ca62af451b
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-19T22:07:35+00:00'
+timestamp: '2024-01-05T08:19:49+00:00'
 requested_by: ashmaroli
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/colinfitzgerald328/minima
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -26,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/colinfitzgerald328/minima/blob/master/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: Parker Moore
   last_updated_on: 2016-05-20 23:10:37.000000000 Z
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/2988/4e77LXIo_400x400.png
+  detection_source_url: https://github.com/colinfitzgerald328/minima/blob/master/minima.gemspec
   detection_source: minima.gemspec
   last_updated_by: jekyllbot
   last_updated_on: 2019-01-11 15:38:58.000000000 Z
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/colinfitzgerald328/minima
   detection_source: Repo Metadata
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
@@ -57,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/colinfitzgerald328/minima/blob/master/minima.gemspec
   detection_source: minima.gemspec
   last_updated_by: Parker Moore
   last_updated_on: 2016-05-20 23:10:37.000000000 Z
@@ -69,6 +74,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/colinfitzgerald328/minima/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Ben Balter
   last_updated_on: 2016-09-06 15:56:21.000000000 Z
@@ -80,6 +86,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/colinfitzgerald328/minima/blob/master/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: Parker Moore
   last_updated_on: 2016-05-20 23:10:37.000000000 Z
@@ -92,6 +99,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/colinfitzgerald328/minima
   detection_source: Repo Metadata
 - name: jekyll
   description: Jekyll is a simple, blog aware, static site generator
